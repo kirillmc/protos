@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/protos.iml" filepath="$PROJECT_DIR$/.idea/protos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gRPC_from_YT_00/.idea/sso.iml" filepath="$PROJECT_DIR$/../gRPC_from_YT_00/.idea/sso.iml" />
     </modules>
   </component>
 </project>
